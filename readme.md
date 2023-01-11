@@ -7,4 +7,4 @@ This is a simple api that is Docker containerized FastAPI Lambda function that a
 - Aws Lambda
 - FastAPI
 
-![](images/Asset 2.png)
+![](https://raw.githubusercontent.com/jacobpetersonwastaken/fastapi-lambda-container/main/images/Asset%203.png?token=GHSAT0AAAAAAB4P35K2R7PGFQM3F7YN5BTEY57DWJQ)
